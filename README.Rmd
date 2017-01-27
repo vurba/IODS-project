@@ -1,0 +1,12 @@
+---
+title: "README.Rmd"
+author: "Varpu Vuoristo"
+date: "27 tammikuuta 2017"
+output: html_document
+---
+# Hi there again!
+
+This is test file for Rmarkdown.
+This course seems very interesting and useful, it is just that the baby steps seem to be rather difficult.
+
+[to the course diary](https://vurba.github.io/IODS-project/)
